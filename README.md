@@ -22,7 +22,7 @@ To properly use this application you need to have node and MySQL installed to pr
 
 After you've install all the npm packages, go to the db folder in terminal and run `mysql -u root -p` and type in `password`. Next all you have to do it run `source schema.sql; then `exit`.
 
-Once all the npm packages are installed and the schema file has been run, all you have to do it go to the root level and run `node sees/index.js` then `node server.js` and you should be good to go on running and using this application.
+Once all the npm packages are installed and the schema file has been run, all you have to do it go to the root level and run `node seeds/index.js` then `node server.js` and you should be good to go on running and using this application.
 
 ## Links
 
